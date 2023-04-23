@@ -1,0 +1,10 @@
+date,#,comment,amount
+2023-04-27,dedfe,"new trans",599
+2023-04-27,dedfe,"new trans",599
+2023-04-06,example,ex,412
+"Apr 06 , 2023",www,"new trans",-1000
+"Apr 06 , 2023",100,100,101
+"Apr 06 , 2023",www,sss,400
+"Apr 06 , 2023",100,100,100
+"Apr 06 , 2023",100,100,100
+"Apr 06 , 2023",www,sss,100
